@@ -1,6 +1,8 @@
 # Pasta-Wars
 This repo contains code, doc of Deep Learning Project that I did where I tried to classify different kinds of Pastas.
-War between Penne Vs Spaghetti
+
+**War between Penne Vs Spaghetti**
+
 ![Penne](https://github.com/subashgandyer/Pasta-Wars/blob/master/Penne%20Pasta.png)
 ![Spaghetti](https://github.com/subashgandyer/Pasta-Wars/blob/master/Spaghetti%20Pasta.png)
 
